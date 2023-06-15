@@ -41,3 +41,8 @@ Our app utilizes machine learning to quickly identify dishes through a simple ph
 **Case:**
 
 ## Screenshots
+<p align="center">
+  <img src="414674.jpg" width="200">
+  <img src="414675.jpg" width="200">
+  <img src="414676.jpg" width="200">
+</p>
