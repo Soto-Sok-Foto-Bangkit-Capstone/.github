@@ -62,7 +62,7 @@ Our app utilizes machine learning to quickly identify dishes through a simple ph
 <br>
 
 ## Application Demo
-  <img width="300" src="https://raw.githubusercontent.com/Soto-Sok-Foto-Bangkit-Capstone/.github/main/profile/Demo_App.gif">
+![App Demo](https://raw.githubusercontent.com/Soto-Sok-Foto-Bangkit-Capstone/.github/main/profile/Demo_App.gif)
 
 
 ## Screenshots
