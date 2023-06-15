@@ -21,6 +21,8 @@ SOTO DEVELOPMENT README
 - A017DSX1092	– Muhammad Ammar Murtaqib – Institut Teknologi Bandung - Mobile Development
 
 # Soto Develoment Project
+We also have a readme for each component of this project that provided details on how others may replicate our steps (on MD how you can build the application, on ML how to train the model and save it, and on CC how to run the api on local or deploy it on GCP)
+
 **Mobile Development:** 
 
 https://github.com/Soto-Sok-Foto-Bangkit-Capstone/Soto-Mobile-Development
